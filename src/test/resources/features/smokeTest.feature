@@ -1,3 +1,4 @@
+@smoke
 Feature: authentication smoke
 
   Scenario: Generating Token with a vaild user and pass
